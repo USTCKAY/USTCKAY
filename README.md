@@ -1,3 +1,3 @@
 # USTCKAY
-SSE of USTC
-add new line
+SSE OF USTC
+
